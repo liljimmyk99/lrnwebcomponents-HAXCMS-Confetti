@@ -56,11 +56,11 @@
     "@lrnwebcomponents/utils": "^4.0.8",
     "idb-keyval": "6.1.0",
     "lit": "^2.2.0",
-    "mobx": "6.4.1"
+    "mobx": "6.4.2"
   },
   "devDependencies": {
     "@lrnwebcomponents/deduping-fix": "2.7.7",
-    "@open-wc/testing": "3.0.4",
+    "@open-wc/testing": "3.1.2",
     "@polymer/iron-component-page": "github:PolymerElements/iron-component-page",
     "@polymer/iron-demo-helpers": "3.1.0",
     "@web/dev-server": "0.1.30",
